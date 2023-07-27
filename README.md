@@ -1,14 +1,16 @@
 [![kibot](https://github.com/nerdyscout/KiCAD-CICD-Template/actions/workflows/kibot.yml/badge.svg)](https://github.com/nerdyscout/KiBot-CICD-Template/actions/workflows/kibot.yml)
-[![platformio](https://github.com/nerdyscout/KiCAD-CICD-Template/actions/workflows/platformio.yml/badge.svg)](https://github.com/nerdyscout/KiBot-CICD-Template/actions/workflows/platformio.yml)
+
 [![reuse](https://github.com/nerdyscout/KiCAD-CICD-Template/actions/workflows/reuse.yml/badge.svg)](https://github.com/nerdyscout/KiBot-CICD-Template/actions/workflows/reuse.yml)
 
 ---
 
-# KiCAD-CICD-Template
+# One-Inch-LaserDriver
 
-This repository provides different CI/CD workflows used for projects using [KiCAD](https://www.kicad.org/) and [PlatformIO](https://platformio.org).
+...
 
-## workflows
+## HowTo
+
+Use this plugin to generate what's required for manufacturing with JLCPCB: https://github.com/Bouni/kicad-jlcpcb-tools
 
 ### KiBot
 
@@ -42,11 +44,11 @@ The following documents are generated on every build:
 
 ### PlatformIO
 
-used to rebuild your source code whenever it changes.
+Used to rebuild your source code whenever it changes. Not used in this project.
 
 ### REUSE
 
-used to insure every file got a propper license. 
+Used to ensure every file got a propper license. 
 
 ## getting started
 

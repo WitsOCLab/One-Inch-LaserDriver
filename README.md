@@ -42,25 +42,15 @@ The following documents are generated on every build:
 - pcb/gerbers - ZIP
 ```
 
-### PlatformIO
-
-Used to rebuild your source code whenever it changes. Not used in this project.
-
 ### REUSE
 
 Used to ensure every file got a propper license. 
 
 ## getting started
 
-- [ ] hit the "use this template" button and give your project a name
-- [ ] clone this new repository localy
-- [ ] replace content of README.md
-- [ ] Code
-   - [ ] put your code in the `src/` folder using platformio
 - [ ] PCB
    - [ ] change the filenames in `pcb/*.kicad_*` matching your repository name
    - [ ] create your PCB
 - [ ] run `reuse --lint`
    - [ ] make sure the licenses of `pcb/*` fits your needs
-   - [ ] make sure the licenses of `src/*`, `include/*`, `lib/*`, `test/*` fits your needs
 - [ ] commit and push all those changes regulary to your project

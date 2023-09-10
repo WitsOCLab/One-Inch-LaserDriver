@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ichaus")(type "KiCad")(uri "${KIPRJMOD}/ichaus.kicad_sym")(options "")(descr ""))
+)
